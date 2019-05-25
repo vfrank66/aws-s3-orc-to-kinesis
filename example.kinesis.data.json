@@ -1,0 +1,66 @@
+{
+    "data": {
+        "memberAddresses": [
+            {
+                "cityName": "New Vincent",
+                "countryCode": "iLJF",
+                "countyCode": "Florestown",
+                "lineOne": "61413 Sarah Trail",
+                "lineThree": "578",
+                "lineTwo": "Suite 634",
+                "stateCode": "Iowa",
+                "zipCode": "28073"
+            }
+        ],
+        "memberBirthDate": "1975-12-14 19:30:49",
+        "memberEligibilities": [
+            {
+                "classId": null,
+                "effectiveDate": null,
+                "eligibilityExplanation": null,
+                "eligibilityReason": null,
+                "eligibilitySelectionLevelDescription": null,
+                "groupId": null,
+                "isActive": null,
+                "isCurrent": null,
+                "terminationDate": null
+            }
+        ],
+        "memberEmailAddresses": [
+            {
+                "address": "kingsandra@smith-williamson.biz",
+                "effectiveDate": null,
+                "isActive": null,
+                "isCurrent": null,
+                "terminationDate": null
+            }
+        ],
+        "memberFirstName": "Meghan",
+        "memberGender": "male",
+        "memberId": "4901",
+        "memberIdSuffix": "",
+        "memberLastName": "Sampson",
+        "memberMiddleInitial": "M",
+        "memberSocialSecurityNumber": "421776240",
+        "memeberPhoneNumbers": [
+            {
+                "effectiveDate": null,
+                "isActive": null,
+                "isCurrent": null,
+                "phoneNumber": "0857507906",
+                "telecomType": "home",
+                "terminationDate": null
+            },
+            {
+                "effectiveDate": null,
+                "isActive": null,
+                "isCurrent": null,
+                "phoneNumber": "7984421776",
+                "telecomType": "fax",
+                "terminationDate": null
+            }
+        ]
+    },
+    "delta": "add",
+    "type": "member"
+}

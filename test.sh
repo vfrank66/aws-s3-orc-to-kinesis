@@ -1,0 +1,1 @@
+ GO111MODULE=on go get -u github.com/scritchley/orc
